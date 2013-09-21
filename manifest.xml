@@ -1,0 +1,17 @@
+<package>
+  <description brief="ros_trials">
+
+     ros_trials
+
+  </description>
+  <author>ricardo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros_trials</url>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+</package>
+
+
